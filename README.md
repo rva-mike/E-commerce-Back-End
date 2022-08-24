@@ -25,7 +25,7 @@ Then, login to MySQL (mysql -u root -p). Add the schema with the command 'db/sch
 
 
   ## Usage
-  Used for managing am e-commerce business product database. 
+  Used for managing an e-commerce business product database. 
   
   ## Videos
   
