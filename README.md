@@ -29,7 +29,7 @@ Then, login to MySQL (mysql -u root -p). Add the schema with the command 'db/sch
   
   ## Videos
   
-  #### Walk-through videos and demonstrations:
+  ### Walk-through videos and demonstrations:
   
   #### Create Schema and Seed Data
   https://drive.google.com/file/d/1WZyTtrOcK95P-oqBDE7P_DdR0GodRPa1/view
