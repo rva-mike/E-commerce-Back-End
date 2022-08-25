@@ -5,6 +5,12 @@
 
   ## Description
   This application is the back end for an e-commerce site. It uses an Express.js API and configures it to use Sequelize to interact with a MySQL database. Data of products, categories, and tags can all be stored, edited, and deleted.
+  
+  https://expressjs.com/
+  
+  https://sequelize.org/
+  
+  https://www.mysql.com/
 
   ## Table of Contents
   * [Description](#description)
@@ -21,7 +27,7 @@
     DB_USER='root'
     DB_PW='your password goes here'
 
-Then, login to MySQL (mysql -u root -p). Add the schema with the command 'db/schema.sql' Quit MySql with the command 'quit'. Add your own seeds or use the command 'npm run seed' for starter data. Finally, run the command 'node server'. Use an application like 'Insomnia' to test locally using http://localhost:3001/.
+Then, login to MySQL (mysql -u root -p). Add the schema with the command 'db/schema.sql' Quit MySql with the command 'quit'. Add your own seeds or use the command 'npm run seed' for starter data. Finally, run the command 'node server'. Use an application like 'Insomnia' (https://insomnia.rest/) to test locally using http://localhost:3001/.
 
 
   ## Usage
